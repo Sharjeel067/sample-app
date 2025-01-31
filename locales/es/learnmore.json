@@ -1,0 +1,42 @@
+{
+    "navigation": {
+      "backToHome": "Volver al Inicio"
+    },
+    "hero": {
+      "title": "¿Por qué elegir MyApp?",
+      "description": "MyApp ofrece a los desarrolladores una plataforma potente y flexible para crear aplicaciones web modernas. Descubre cómo nuestras características pueden acelerar tu proceso de desarrollo y mejorar tus aplicaciones."
+    },
+    "features": {
+      "performanceTitle": "Rendimiento Ultra Rápido",
+      "performanceDescription": "Diseñado pensando en la velocidad, nuestra plataforma garantiza que tus aplicaciones funcionen de manera fluida y eficiente, proporcionando la mejor experiencia de usuario posible.",
+      "securityTitle": "Seguridad de Nivel Empresarial",
+      "securityDescription": "Medidas de seguridad de primer nivel protegen tus datos y aplicaciones, con actualizaciones regulares y monitoreo continuo.",
+      "architectureTitle": "Arquitectura Modular",
+      "architectureDescription": "Nuestra estructura basada en componentes permite una fácil personalización y escalabilidad de tus aplicaciones a medida que crecen tus necesidades.",
+      "distributionTitle": "Distribución Global",
+      "distributionDescription": "Despliega tus aplicaciones en todo el mundo con nuestra red distribuida, asegurando baja latencia y alta disponibilidad.",
+      "updatesTitle": "Actualizaciones en Tiempo Real",
+      "updatesDescription": "Mantente sincronizado con actualizaciones instantáneas y flujo de datos en tiempo real en todas tus instancias de aplicaciones.",
+      "collaborationTitle": "Desarrollo Colaborativo",
+      "collaborationDescription": "Herramientas integradas para colaboración en equipo, control de versiones y flujos de trabajo de implementación sin problemas."
+    },
+    "caseStudies": {
+      "title": "Casos de Éxito",
+      "subtitle": "Mira cómo las empresas están usando MyApp para transformar su proceso de desarrollo:",
+      "cases": {
+        "techCorp": "Tech Corp redujo el tiempo de implementación en un 75% usando nuestros flujos de trabajo automatizados",
+        "startupX": "StartupX escaló a 1M de usuarios sin tiempo de inactividad usando nuestra infraestructura",
+        "enterpriseCo": "Enterprise Co ahorró un 40% en costos de desarrollo a través de nuestra arquitectura modular"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Comenzar?",
+      "description": "Únete a miles de desarrolladores que ya están creando aplicaciones increíbles con MyApp.",
+      "startBuilding": "Empezar a Construir",
+      "contactSales": "Contactar con Ventas"
+    },
+    "documentation": {
+      "prompt": "¿Quieres profundizar más? Consulta nuestra documentación detallada.",
+      "link": "Ver Documentación"
+    }
+  }

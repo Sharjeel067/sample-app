@@ -1,0 +1,47 @@
+{
+    "navigation": {
+      "backToHome": "Back to Home"
+    },
+    "hero": {
+      "title": "Why Choose MyApp?",
+      "description": "MyApp provides developers with a powerful, flexible platform for building modern web applications. Discover how our features can accelerate your development process and improve your applications."
+    },
+    "features": {
+      "performanceTitle": "Lightning Fast Performance",
+      "performanceDescription": "Built with speed in mind, our platform ensures your applications run smoothly and efficiently, providing the best possible user experience.",
+      
+      "securityTitle": "Enterprise-Grade Security",
+      "securityDescription": "Top-tier security measures protect your data and applications, with regular updates and continuous monitoring.",
+      
+      "architectureTitle": "Modular Architecture",
+      "architectureDescription": "Our component-based structure allows for easy customization and scaling of your applications as your needs grow.",
+      
+      "distributionTitle": "Global Distribution",
+      "distributionDescription": "Deploy your applications worldwide with our distributed network, ensuring low latency and high availability.",
+      
+      "updatesTitle": "Real-Time Updates",
+      "updatesDescription": "Stay synchronized with instant updates and real-time data flow across all your application instances.",
+      
+      "collaborationTitle": "Collaborative Development",
+      "collaborationDescription": "Built-in tools for team collaboration, version control, and seamless deployment workflows."
+    },
+    "caseStudies": {
+      "title": "Success Stories",
+      "subtitle": "See how companies are using MyApp to transform their development process:",
+      "cases": {
+        "techCorp": "Tech Corp reduced deployment time by 75% using our automated workflows",
+        "startupX": "StartupX scaled to 1M users with zero downtime using our infrastructure",
+        "enterpriseCo": "Enterprise Co saved 40% on development costs through our modular architecture"
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Join thousands of developers who are already building amazing applications with MyApp.",
+      "startBuilding": "Start Building",
+      "contactSales": "Contact Sales"
+    },
+    "documentation": {
+      "prompt": "Want to dive deeper? Check out our detailed documentation.",
+      "link": "View Documentation"
+    }
+  }

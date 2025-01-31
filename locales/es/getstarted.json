@@ -1,0 +1,43 @@
+{
+    "navigation": {
+      "backToHome": "Volver al Inicio"
+    },
+    "hero": {
+      "title": "Comienza con MyApp",
+      "description": "Sigue estos sencillos pasos para empezar a construir tu aplicación con MyApp. Nuestro proceso de configuración optimizado te tendrá listo y funcionando en minutos."
+    },
+    "steps": {
+      "install": {
+        "title": "Instalar Dependencias",
+        "description": "Comienza instalando todas las dependencias necesarias para tu proyecto.",
+        "command": "npm install @myapp/core @myapp/ui"
+      },
+      "configure": {
+        "title": "Configurar tu Proyecto",
+        "description": "Configura tu proyecto con nuestro asistente de configuración simple.",
+        "command": "npx @myapp/cli init"
+      },
+      "create": {
+        "title": "Crear tu Primer Componente",
+        "description": "Empieza a construir creando tu primer componente.",
+        "command": "npx @myapp/cli generate component MyComponent"
+      }
+    },
+    "nextSteps": {
+      "title": "Próximos Pasos",
+      "description": "Ahora que has configurado tu proyecto, explora nuestros recursos para aprender más:",
+      "links": {
+        "documentation": "📚 Documentación",
+        "examples": "💡 Proyectos de Ejemplo",
+        "tutorials": "🎓 Tutoriales"
+      }
+    },
+    "help": {
+      "title": "¿Necesitas Ayuda?",
+      "description": "Si encuentras algún problema o necesitas asistencia, nuestra comunidad está aquí para ayudar:",
+      "links": {
+        "discord": "Únete a nuestra Comunidad de Discord",
+        "github": "Abre un Issue en GitHub"
+      }
+    }
+  }
